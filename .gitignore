@@ -1,0 +1,17 @@
+# Archivos de R
+.Rhistory
+.RData
+.Ruserdata
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Directorios
+/.Rproj.user/
+
+#esto le dice a Git qué archivos/carpetas NO debe rastrear, evita subir archivos temporales y mantiene el repositorio limpio
